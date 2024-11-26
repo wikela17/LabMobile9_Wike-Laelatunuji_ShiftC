@@ -45,3 +45,16 @@ Pada halaman Home, pengguna akan melihat tampilan utama aplikasi setelah berhasi
 
 Halaman Profil menampilkan informasi pribadi yang diambil dari akun Google pengguna, termasuk nama, email, dan foto profil. Informasi ini diperoleh setelah autentikasi dan diambil menggunakan token akses dari Google. Pengguna dapat melihat informasi pribadi mereka di sini, yang disinkronkan secara otomatis dengan akun Google.
 
+
+
+Tampilan Create
+Pada tampilan Create, pengguna dapat menambahkan item baru ke dalam daftar tugas. Pengguna mengisi form dengan informasi seperti judul dan deskripsi tugas, lalu mengklik tombol "Add Todo" untuk menyimpan tugas baru ke Firebase.
+
+Tampilan Read
+Tampilan Read menampilkan daftar tugas yang tersimpan di database Firebase. Setiap tugas memiliki detail seperti judul, deskripsi singkat, dan waktu terakhir diperbarui.
+
+Tampilan Update
+Di tampilan Update, pengguna dapat memperbarui informasi tugas yang sudah ada. Saat pengguna memilih tugas, form edit akan terbuka dengan informasi yang bisa diperbarui, seperti judul dan deskripsi.
+
+Tampilan Delete
+Untuk menghapus tugas, pengguna dapat melakukan swipe atau klik ikon "Trash". Sistem akan menghapus tugas tersebut dari daftar dan database Firebase.
