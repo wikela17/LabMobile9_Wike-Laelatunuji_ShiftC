@@ -72,11 +72,18 @@ Tampilan Delete
 Untuk menghapus tugas, pengguna dapat melakukan swipe atau klik ikon "Trash". Sistem akan menghapus tugas tersebut dari daftar dan database Firebase.
 
 Cara build apk
+
 ``
 npx cap open android
 ``
 
 lalu build di android studio
 
+setelah selesai, buka folder lalu masuk ke android/app/build/output lalu install pada bagian .APK
+
+
+
 SS Tampilan APK
+![WhatsApp Image 2024-11-26 at 18 45 38_05072688](https://github.com/user-attachments/assets/a10ca9d1-4dcb-4be5-a3ec-847c1c03fbc3)
+
 
