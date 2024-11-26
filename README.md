@@ -84,7 +84,6 @@ setelah selesai, buka folder lalu masuk ke android/app/build/output lalu install
 
 
 SS Tampilan APK
-
 ![WhatsApp Image 2024-11-26 at 18 45 38_05072688](https://github.com/user-attachments/assets/a10ca9d1-4dcb-4be5-a3ec-847c1c03fbc3)
 
 
