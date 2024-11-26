@@ -48,13 +48,25 @@ Halaman Profil menampilkan informasi pribadi yang diambil dari akun Google pengg
 
 
 Tampilan Create
+
+![Screenshot 2024-11-26 202606](https://github.com/user-attachments/assets/2496b378-1ced-44be-9cd9-f098e59bf6a3)
+
 Pada tampilan Create, pengguna dapat menambahkan item baru ke dalam daftar tugas. Pengguna mengisi form dengan informasi seperti judul dan deskripsi tugas, lalu mengklik tombol "Add Todo" untuk menyimpan tugas baru ke Firebase.
 
 Tampilan Read
+
+![Screenshot 2024-11-26 202628](https://github.com/user-attachments/assets/0e75262b-f736-4b5d-b886-62a8eb97e7d2)
+
 Tampilan Read menampilkan daftar tugas yang tersimpan di database Firebase. Setiap tugas memiliki detail seperti judul, deskripsi singkat, dan waktu terakhir diperbarui.
 
 Tampilan Update
+
+![Screenshot 2024-11-26 202658](https://github.com/user-attachments/assets/3fa43a77-6702-44da-bf77-005df7900afb)
+
 Di tampilan Update, pengguna dapat memperbarui informasi tugas yang sudah ada. Saat pengguna memilih tugas, form edit akan terbuka dengan informasi yang bisa diperbarui, seperti judul dan deskripsi.
 
 Tampilan Delete
+
+![Screenshot 2024-11-26 202804](https://github.com/user-attachments/assets/615f192b-085c-4e92-a33e-7e28b5c67d1f)
+
 Untuk menghapus tugas, pengguna dapat melakukan swipe atau klik ikon "Trash". Sistem akan menghapus tugas tersebut dari daftar dan database Firebase.
