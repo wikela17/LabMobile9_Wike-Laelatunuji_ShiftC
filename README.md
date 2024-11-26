@@ -70,3 +70,13 @@ Tampilan Delete
 ![Screenshot 2024-11-26 202804](https://github.com/user-attachments/assets/615f192b-085c-4e92-a33e-7e28b5c67d1f)
 
 Untuk menghapus tugas, pengguna dapat melakukan swipe atau klik ikon "Trash". Sistem akan menghapus tugas tersebut dari daftar dan database Firebase.
+
+Cara build apk
+``
+npx cap open android
+``
+
+lalu build di android studio
+
+SS Tampilan APK
+
